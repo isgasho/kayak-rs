@@ -1,5 +1,6 @@
 [package]
 name = "kayak"
+readme = "README.md"
 description = "A Raft implementation for intuitive usage"
 categories = ["algorithms", "asynchronous", "concurrency", "network-programming"]
 keywords = ["raft", "consensus", "ffi", "no_std"]
