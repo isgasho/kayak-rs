@@ -1,0 +1,13 @@
+[package]
+name = "kayak"
+description = "A Raft implementation for intuitive usage"
+categories = ["algorithms", "asynchronous", "concurrency", "network-programming"]
+keywords = ["raft", "consensus", "ffi", "no_std"]
+license = "Apache-2.0 OR MIT"
+version = "0.0.0"
+authors = ["Khionu Sybiern <dev@khionu.net>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
